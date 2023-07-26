@@ -1,2 +1,2 @@
-# quanta_guy
-My Portfolio
+# Quanta Guy
+This is my portfolio
